@@ -1,8 +1,8 @@
 
 		
 		public class ContarRepetidos {
-			static int A=10;
-			static int B=20;
+			static int A=15;
+			static int B=25;
 			static int vectorA[]=new int[A];
 			static int vectorB[]=new int[B];
 			static int elemA=0;	
