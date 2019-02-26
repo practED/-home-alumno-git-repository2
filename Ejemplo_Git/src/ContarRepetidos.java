@@ -5,8 +5,8 @@
 			static int B=17;
 			static int vectorA[]=new int[A];
 			static int vectorB[]=new int[B];
-			static int elemA=5;	
-			static int elemB=5;
+			static int elemA=0;	
+			static int elemB=0;
 			static int z=0;
 			static void llenaArreglo(){
 				for(int i=0;i<vectorA.length;i++){
